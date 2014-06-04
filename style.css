@@ -1,8 +1,12 @@
 body {
-	background-image: url('background.jpg');
-	background-repeat: no-repeat;
+	background: url('background.jpg')  no-repeat center center fixed;
+	/* background-repeat: no-repeat; */
   	background-position: center center;
-  	background-size: 100%;
+	/*background-size: 100%; */
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
   	background-color: #000;
 	margin: 0 auto;
 	max-width: 600px;
