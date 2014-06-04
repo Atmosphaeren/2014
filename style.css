@@ -30,12 +30,20 @@ body {
 	font-size: 100px;
 }
 
-.atmo_info{
+.atmo_title2{
 	margin: 0 auto;
 	text-align:center;
 	padding: 1em 0 2em 0;
 	color: #fff;
 	font-size: 30px;
+}
+
+.atmo_info{
+	margin: 0 auto;
+	text-align:left;
+	padding: 1em 0 2em 0;
+	color: #fff;
+	font-size: 20px;
 }
 
 iframe {
