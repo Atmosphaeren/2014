@@ -33,7 +33,7 @@ body {
 .atmo_title2{
 	margin: 0 auto;
 	text-align:center;
-	padding: 1em 0 1em 0;
+	padding: 0.5em 0 1em 0;
 	color: #fff;
 	font-size: 30px;
 }
@@ -41,7 +41,7 @@ body {
 .atmo_info{
 	margin: 0 auto;
 	text-align:center;
-	padding: 1em 0 2em 0;
+	padding: 1em 0 1em 0;
 	color: #fff;
 	font-size: 20px;
 }
