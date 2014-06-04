@@ -41,9 +41,9 @@ body {
 .atmo_info{
 	margin: 0 auto;
 	text-align:center;
-	padding: 1em 0 1em 0;
+	padding: 1em 1em 1em 1em;
 	color: #fff;
-	font-size: 20px;
+	font-size: 16px;
 }
 
 iframe {
