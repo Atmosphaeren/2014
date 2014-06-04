@@ -38,14 +38,14 @@ iframe {width: 100%;
 
 
 button{
-	background-color: none;
+
 	border: 3px solid #fff;
 	color: #fff;
 	padding: 1em;
 	height: 40px;
 	width: 150px;
 	line-height: 10px;
-	margin: 0;
+	margin: 10px;
 	font-family:'Vollkorn';
 }
 
