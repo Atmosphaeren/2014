@@ -1,0 +1,61 @@
+body {
+	background-color:#000000;
+	margin: 0 auto;
+	max-width: 600px;
+	text-align: center;
+	font-family:'Vollkorn';
+}
+
+
+.line {
+	width:600px;
+	margin: 2em 0 1em 0em;
+	text-align:center;
+}
+
+.atmo_title{
+
+}
+
+.atmo_info{
+	
+}
+
+iframe {width: 100%;
+}
+
+
+button{
+	background-color: #000;
+	border: 2px solid #fff;
+	color: #fff;
+	padding: 1em;
+	height: 40px;
+	width: 250px;
+	line-height: 10px;
+	margin: 0;
+	font-family:'Vollkorn';
+}
+
+button{background-color: #000;
+border: 1px solid #fff;
+color: #fff;
+}
+
+
+.link {
+display: block;
+width: 250px;
+margin: 0 auto;
+}
+
+
+
+button:hover {background-color: #fff; color: #000;}
+button:focus {outline: none;}
+button{cursor: pointer;}
+
+a:link {color:#ffffff;}      /* unvisited link */
+a:visited {color:#ffffff;}  /* visited link */
+a:hover {color:#ffffff;}  /* mouse over link */
+a:active {color:#ffffff;}
