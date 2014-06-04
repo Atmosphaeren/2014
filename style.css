@@ -17,6 +17,8 @@ body {
 .lang{
 	font-size: 16px;
 	text-align:center;
+	color: #fff;
+	margin-top: .2em;
 }
 
 .line {
