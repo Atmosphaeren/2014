@@ -47,14 +47,14 @@ body {
 
 .artist{
 	margin: 0 auto;
-	padding: 1em 1em 1em 1em;
+	padding: 0em 2em 1em 2em;
 	font-size: 14px;
 	text-shadow: 1px 1px #000;
 	text-align: left;
 }
 
 .line2 {
-	width: 150px;
+	width: 50px;
 	size:1px;
 	border: 1px solid #fff;
 	text-align: center;
