@@ -48,12 +48,22 @@ body {
 .artist{
 	margin: 0 auto;
 	padding: 1em 1em 1em 1em;
-	font-size: 12px;
+	font-size: 14px;
 	text-shadow: 1px 1px #000;
 	text-align: left;
 }
 
+.line {
+	width:300px;
+	margin: 1em 0 3em 0em;
+	border: 1px solid #fff;
+}
+
 h1{
+	text-align: center;
+}
+
+h2{
 	text-align: center;
 }
 
