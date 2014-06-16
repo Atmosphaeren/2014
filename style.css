@@ -48,9 +48,13 @@ body {
 .artist{
 	margin: 0 auto;
 	padding: 1em 1em 1em 1em;
-	font-size: 18px;
+	font-size: 10px;
 	text-shadow: 1px 1px #000;
 	text-align: left;
+}
+
+h1.artist{
+	text-align: center;
 }
 
 iframe {
