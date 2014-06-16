@@ -54,9 +54,10 @@ body {
 }
 
 .line2 {
-	width:300px;
+	width: 150px;
 	margin: 1em 0 3em 0em;
-	border: 1px solid #fff;
+	border: .5px solid #fff;
+	text-align: center;
 }
 
 h1{
