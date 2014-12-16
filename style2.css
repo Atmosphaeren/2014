@@ -106,6 +106,20 @@ padding: 40px;
 margin-top: 150px;
 }
 
+.form {
+	background: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	padding: 1em;
+	height: 40px;
+	width: 150px;
+	line-height: 4px;
+	margin: 10px;
+	font-family:'Times';
+	font-size: 16px;
+
+}
+
 
 
 button:hover {background-color: #fff; color: #000;}
