@@ -51,11 +51,14 @@ input{
 	width: 300px;
 	line-height: 4px;
 	margin: 10px;
-	margin-top: 8em;
 	font-family: 'Times';
 	font-size: 16px;
+	text-align: center;
 }
 
+.email {
+	margin-top: 8em;
+}
 
 
 .form {
