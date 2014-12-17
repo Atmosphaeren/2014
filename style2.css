@@ -46,12 +46,13 @@ input{
 	background: transparent;
 	border: 2px solid #fff;
 	color: #fff;
-	padding: 1em 5em;
+	padding: 1em;
 	height: 40px;
+	width: 300px;
 	line-height: 4px;
 	margin: 10px;
-	margin-top: 2em;
-	font-family:'Times';
+	margin-top: 8em;
+	font-family: 'Times';
 	font-size: 16px;
 }
 
