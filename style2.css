@@ -35,7 +35,7 @@ button{
 	color: #fff;
 	padding: 1em;
 	height: 40px;
-	width: 150px;
+	width: 80px;
 	line-height: 4px;
 	margin: 10px;
 	font-family:'Times';
@@ -80,7 +80,7 @@ button{cursor: pointer;}
 
 input:hover {background-color: #fff; color: #000;}
 input:focus {outline: none;}
-input{cursor: pointer;}
+input{cursor: text;}
 
 a:link {color:#ffffff;}      /* unvisited link */
 a:visited {color:#ffffff;}  /* visited link */
