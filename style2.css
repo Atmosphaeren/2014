@@ -1,0 +1,87 @@
+body {
+	background: url('background2.jpg')  no-repeat center center fixed;
+	/* background-repeat: no-repeat; */
+  	background-position: center center;
+	/*background-size: 100%; */
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	background-color: #000;
+	margin: 0 auto;
+	max-width: 600px;
+	text-align: center;
+	font-family:"Times";
+	color: #fff;
+}
+
+
+h1{
+	text-align: center;
+}
+
+h2{
+	text-align: center;
+}
+
+iframe {
+	width: 100%;
+}
+
+
+button{
+	background: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	padding: 1em;
+	height: 40px;
+	width: 150px;
+	line-height: 4px;
+	margin: 10px;
+	font-family:'Times';
+	font-size: 16px;
+}
+
+input{
+	background: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	padding: 1em 5em;
+	height: 40px;
+	line-height: 4px;
+	margin: 10px;
+	margin-top: 2em;
+	font-family:'Times';
+	font-size: 16px;
+}
+
+
+
+.form {
+	background: transparent;
+	border: 2px solid #fff;
+	color: #fff;
+	padding: 1em;
+	height: 40px;
+	width: 150px;
+	line-height: 4px;
+	margin: 10px;
+	font-family:'Times';
+	font-size: 16px;
+
+}
+
+
+
+button:hover {background-color: #fff; color: #000;}
+button:focus {outline: none;}
+button{cursor: pointer;}
+
+input:hover {background-color: #fff; color: #000;}
+input:focus {outline: none;}
+input{cursor: pointer;}
+
+a:link {color:#ffffff;}      /* unvisited link */
+a:visited {color:#ffffff;}  /* visited link */
+a:hover {color:#ffffff;}  /* mouse over link */
+a:active {color:#ffffff;}
